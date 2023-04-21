@@ -20,9 +20,9 @@
 #include <vector>
 
 #include "src/fastertransformer/layers/DynamicDecodeLayer.h"
-#include "src/fastertransformer/models/gptneox/GptNeoXContextDecoder.h"
-#include "src/fastertransformer/models/gptneox/GptNeoXDecoder.h"
-#include "src/fastertransformer/models/gptneox/GptNeoXWeight.h"
+#include "src/fastertransformer/models/llama/GptNeoXContextDecoder.h"
+#include "src/fastertransformer/models/llama/GptNeoXDecoder.h"
+#include "src/fastertransformer/models/llama/GptNeoXWeight.h"
 #include "src/fastertransformer/utils/custom_ar_comm.h"
 #include "src/fastertransformer/utils/prompt_learning.h"
 

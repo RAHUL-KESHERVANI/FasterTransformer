@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "src/fastertransformer/models/gptneox/GptNeoXWeight.h"
+#include "src/fastertransformer/models/llama/GptNeoXWeight.h"
 
 namespace fastertransformer {
 

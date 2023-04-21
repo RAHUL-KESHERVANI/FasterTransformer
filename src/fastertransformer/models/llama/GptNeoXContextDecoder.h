@@ -23,7 +23,7 @@
 #include "src/fastertransformer/layers/BaseLayer.h"
 #include "src/fastertransformer/layers/FfnLayer.h"
 #include "src/fastertransformer/layers/attention_layers/BaseAttentionLayer.h"
-#include "src/fastertransformer/models/gptneox/GptNeoXDecoderLayerWeight.h"
+#include "src/fastertransformer/models/llama/GptNeoXDecoderLayerWeight.h"
 #include "src/fastertransformer/utils/Tensor.h"
 #include "src/fastertransformer/utils/allocator.h"
 #include "src/fastertransformer/utils/cublasMMWrapper.h"

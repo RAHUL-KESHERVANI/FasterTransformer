@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "src/fastertransformer/models/gptneox/GptNeoXDecoder.h"
+#include "src/fastertransformer/models/llama/GptNeoXDecoder.h"
 #include "src/fastertransformer/layers/TensorParallelGeluFfnLayer.h"
 #include "src/fastertransformer/layers/attention_layers/TensorParallelDecoderSelfAttentionLayer.h"
 

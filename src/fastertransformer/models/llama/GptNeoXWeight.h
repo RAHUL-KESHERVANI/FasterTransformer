@@ -17,7 +17,7 @@
 #pragma once
 
 #include "src/fastertransformer/kernels/layernorm_kernels.h"
-#include "src/fastertransformer/models/gptneox/GptNeoXDecoderLayerWeight.h"
+#include "src/fastertransformer/models/llama/GptNeoXDecoderLayerWeight.h"
 #include "src/fastertransformer/utils/memory_utils.h"
 #include "src/fastertransformer/utils/prompt_learning.h"
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "src/fastertransformer/models/gptneox/GptNeoX.h"
+#include "src/fastertransformer/models/llama/GptNeoX.h"
 #include "src/fastertransformer/kernels/bert_preprocess_kernels.h"
 #include "src/fastertransformer/kernels/decoding_kernels.h"
 #include "src/fastertransformer/kernels/gpt_kernels.h"

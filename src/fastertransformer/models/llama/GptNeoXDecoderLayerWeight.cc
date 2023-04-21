@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "src/fastertransformer/models/gptneox/GptNeoXDecoderLayerWeight.h"
+#include "src/fastertransformer/models/llama/GptNeoXDecoderLayerWeight.h"
 #include "src/fastertransformer/utils/memory_utils.h"
 
 namespace fastertransformer {
